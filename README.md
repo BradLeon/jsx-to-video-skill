@@ -93,18 +93,6 @@ After installing the plugin, the skills are triggered automatically when you des
 
 ---
 
-## Platform Guide / 平台指南
-
-| Platform | Format | Notes |
-|----------|--------|-------|
-| WeChat (微信公众号) | MP4 / GIF | MP4: use "Insert Video"; GIF: insert as image / MP4 用"插入视频"；GIF 作为图片插入 |
-| Xiaohongshu (小红书) | MP4 / GIF | MP4: video post; GIF: auto-plays in image post / MP4 发视频笔记；GIF 在图文中自动播放 |
-| X / Twitter | MP4 / GIF | MP4 recommended for quality; GIF auto-loops / MP4 画质更好；GIF 自动循环 |
-
-**Output dimensions:** 1080 x 1920px (portrait, optimized for mobile feeds)
-
----
-
 ## Project Structure / 项目结构
 
 ```
