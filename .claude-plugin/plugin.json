@@ -1,0 +1,10 @@
+{
+  "name": "jsx-to-video",
+  "version": "1.0.0",
+  "description": "Convert JSX/React animations to GIF and MP4 videos for social media (WeChat, Xiaohongshu, X/Twitter). Supports per-step and combined output modes.",
+  "author": {
+    "name": "BradLeon"
+  },
+  "repository": "https://github.com/BradLeon/jsx-to-video-skill",
+  "license": "MIT"
+}
